@@ -1,5 +1,7 @@
 # 👩‍💻 Sanjna Kumari
 
+# 👋 Hi there! Glad you stopped by 😊
+
 🚀 *MS in Computer Science @ Virginia Tech*  
 🌐 *Software Engineering | Cloud | AI/ML | DevOps | Full Stack*  
 📍 *USA | Open to Internship/Full-Time Roles (Summer 2025)*
