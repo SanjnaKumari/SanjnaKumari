@@ -1,6 +1,6 @@
 # 👩‍💻 Sanjna Kumari
 
-# 👋 Hi there! Glad you stopped by 😊
+# 👋 Hi there! Glad you stopped by
 
 🚀 *MS in Computer Science @ Virginia Tech*  
 🌐 *Software Engineering | Cloud | AI/ML | DevOps | Full Stack*  
