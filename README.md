@@ -2,7 +2,7 @@
 
 🚀 *MS in Computer Science @ Virginia Tech*  
 🌐 *Software Engineering | Cloud | AI/ML | DevOps | Full Stack*  
-📍 *Alexandria, VA | Open to Internship/Full-Time Roles (Summer 2025)*
+📍 *USA | Open to Internship/Full-Time Roles (Summer 2025)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjnakumari)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/SanjnaKumari)
@@ -61,7 +61,7 @@
 ---
 
 ## 📌 Let's Connect!
-If you're working on AI, cloud platforms, or backend systems — I’d love to collaborate or contribute.  
+If you're working on Full-stack, AI, cloud platforms, or backend systems — I’d love to collaborate or contribute.  
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sanjnakumari) or [email](mailto:sanjnak@vt.edu)!
 
 ---
